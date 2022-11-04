@@ -1,6 +1,10 @@
 # Advice Generator using APIs
 
-***You will first need to install node_modules packages in the directory to start the app***
+## Clone repository ```bash
+git clone https://github.com/doreent1/react-advice-app.git
+``` 
+
+***You will first need to install node_modules package in the directory to start the app***
 
 ## Run this command to install node_modules:
 ```bash
