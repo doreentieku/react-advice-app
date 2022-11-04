@@ -1,6 +1,8 @@
 # Advice Generator using APIs
 
-## Clone repository ```bash
+## Clone repository
+
+```bash
 git clone https://github.com/doreent1/react-advice-app.git
 ``` 
 
