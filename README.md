@@ -4,7 +4,7 @@
 
 ## Run this command to install node_modules:
 ```bash
-npm install node_modules
+npm install node
 ```
 
 
