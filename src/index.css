@@ -1,0 +1,14 @@
+body{
+  padding: 40px;
+  background-color: bisque;
+}
+.container{
+color: rgb(0, 149, 255);
+text-align: center;
+}
+
+.container button{
+  color: rgb(6, 79, 122);
+  padding: 12px 30px;
+  font-size: 18px;
+}
