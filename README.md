@@ -1,4 +1,4 @@
-# Advice Generator using APIs
+# Advice Generator using APIs, React.js, Tailwind CSS
 
 ## Clone repository
 
@@ -16,5 +16,7 @@ npm install node
 
 In the project directory, you can run:
 
-### `npm start`
-
+```bash
+ npm start
+```
+***http://localhost:3000/ will open in your default browser***
